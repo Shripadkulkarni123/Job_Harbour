@@ -5,17 +5,17 @@ const PopularCompanies = () => {
     {
       id: 1,
       name: "Tech Solutions",
-      location: "New York, USA",
+      location: "Bangalore, India",
     },
     {
       id: 2,
       name: "Digital Innovations",
-      location: "San Francisco, USA",
+      location: "Mumbai,India",
     },
     {
       id: 3,
       name: "Global Systems",
-      location: "London, UK",
+      location: "Delhi,India",
     }
   ];
 
